@@ -5,3 +5,11 @@ span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
 }
+
+abbr.era{
+	font-variant: all-small-caps;
+}
+
+abbr.acronym{
+	font-variant: all-small-caps;
+}
