@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/john-w-campbell/the-black-star-passes</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2020-08-15T20:17:46Z</dc:date>
+		<meta property="dcterms:modified">2020-08-15T20:17:46Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -36,18 +36,21 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2009125313</meta>
 		<meta property="se:subject">Science Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Arcot, Morey, and Wade</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="group-position" refines="#collection-1">1</meta>
 		<dc:description id="description">Three scientists from Earth invent space travel and meet extraterrestrial life, but then must defend the solar system from a new threat.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;In the year 2126, scientists Arcot and Morey chase a sky pirate—and invent the technology to travel through space. In the second story, the heroes travel to Venus and make first contact with an alien species. Finally, they must defend the solar system from invaders whose own star has long since gone dark.&lt;/p&gt;
-			&lt;p&gt;Originally published separately as &lt;i&gt;Piracy Preferred&lt;/i&gt; in &lt;i&gt;Amazing Stories&lt;/i&gt; June 1930 edition, &lt;i&gt;Solarite&lt;/i&gt; in &lt;i&gt;Amazing Stories&lt;/i&gt; November 1930, and &lt;i&gt;The Black Star Passes&lt;/i&gt; in &lt;i&gt;Amazing Stories Quarterly&lt;/i&gt; Fall 1930, these three novellas were edited and collected into this volume in 1953.&lt;/p&gt;
-			&lt;p&gt;This is the first book in &lt;a href="https://standardebooks.org/ebooks/john-w-campbell"&gt;John W. Campbell’s&lt;/a&gt; &lt;a href="https://standardebooks.org/collections/arcot-morey-and-wade"&gt;Arcot, Morey, and Wade&lt;/a&gt; trilogy. Most famous for editing &lt;i&gt;Astounding Science Fiction and Fact&lt;/i&gt; magazine and introducing Isaac Asimov, Robert Heinlein, and many other great science fiction authors to the world, Campbell’s other notable works include the novella &lt;i&gt;Who Goes There?&lt;/i&gt;, which was adapted to film as &lt;i&gt;The Thing&lt;/i&gt; by John Carpenter in 1982.&lt;/p&gt;
+			&lt;p&gt;Originally published separately as “Piracy Preferred” in &lt;i&gt;Amazing Stories&lt;/i&gt; June 1930 edition, “Solarite” in &lt;i&gt;Amazing Stories&lt;/i&gt; November 1930, and “The Black Star Passes” in &lt;i&gt;Amazing Stories Quarterly&lt;/i&gt; Fall 1930, these three novellas were edited and collected into this volume in 1953.&lt;/p&gt;
+			&lt;p&gt;This is the first book in &lt;a href="https://standardebooks.org/ebooks/john-w-campbell"&gt;John W. Campbell’s&lt;/a&gt; &lt;a href="https://standardebooks.org/collections/arcot-morey-and-wade"&gt;Arcot, Morey, and Wade&lt;/a&gt; trilogy. Most famous for editing &lt;i&gt;Astounding Science Fiction and Fact&lt;/i&gt; magazine and introducing Isaac Asimov, Robert Heinlein, and many other great science fiction authors to the world, Campbell’s other notable works include the novella “Who Goes There?”, which was adapted to film as &lt;i&gt;The Thing&lt;/i&gt; by John Carpenter in 1982.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID42e3fc6632b0d</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/20707</dc:source>
 		<meta property="se:production-notes">The original book used both ° and degrees to refer to temperature, these were normalized to degrees for this production.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">76427</meta>
+		<meta property="se:reading-ease.flesch">70.53</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Black_Star_Passes</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/john-w-campbell_the-black-star-passes</meta>
 		<dc:creator id="author">John W. Campbell</dc:creator>
@@ -80,6 +83,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-2">http://www.robinwhittleton.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
