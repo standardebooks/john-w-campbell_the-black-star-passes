@@ -57,13 +57,13 @@
 		<meta property="file-as" refines="#author">Campbell, John W.</meta>
 		<meta property="se:name.person.full-name" refines="#author">John Wood Campbell Jr.</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/John_W._Campbell</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n81063251</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n81063251</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="se:role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Bengt Nordenberg</dc:contributor>
 		<meta property="file-as" refines="#artist">Nordenberg, Bengt</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Bengt_Nordenberg</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n97108354</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n97108354</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">V. L. Simpson</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Simpson, V. L.</meta>
