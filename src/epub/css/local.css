@@ -5,7 +5,7 @@ abbr.era{
 	font-variant: all-small-caps;
 }
 
-abbr.acronym{
+[epub|type~="z3998:acronym"]{
 	font-variant: all-small-caps;
 }
 
