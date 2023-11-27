@@ -48,7 +48,7 @@
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID42e3fc6632b0d</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/20707</dc:source>
 		<meta property="se:production-notes">The original book used both ° and degrees to refer to temperature, these were normalized to degrees for this production.</meta>
-		<meta property="se:word-count">76427</meta>
+		<meta property="se:word-count">76426</meta>
 		<meta property="se:reading-ease.flesch">70.53</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Black_Star_Passes</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/john-w-campbell_the-black-star-passes</meta>
