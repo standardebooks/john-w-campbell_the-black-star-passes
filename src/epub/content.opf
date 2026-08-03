@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/john-w-campbell/the-black-star-passes</dc:identifier>
 		<dc:date>2020-08-15T20:17:46Z</dc:date>
@@ -40,12 +40,12 @@
 		<meta id="collection-1" property="belongs-to-collection">Arcot, Morey, and Wade</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:description id="description">Three scientists from Earth invent space travel and meet extraterrestrial life, but then must defend the solar system from a new threat.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Three scientists from Earth invent space travel and meet extraterrestrial life, but then must defend the solar system from a new threat.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;In the year 2126, scientists Arcot and Morey chase a sky pirate—and invent the technology to travel through space. In the second story, the heroes travel to Venus and make first contact with an alien species. Finally, they must defend the solar system from invaders whose own star has long since gone dark.&lt;/p&gt;
 			&lt;p&gt;Originally published separately as “Piracy Preferred” in &lt;i&gt;Amazing Stories&lt;/i&gt; June 1930 edition, “Solarite” in &lt;i&gt;Amazing Stories&lt;/i&gt; November 1930, and “The Black Star Passes” in &lt;i&gt;Amazing Stories Quarterly&lt;/i&gt; Fall 1930, these three novellas were edited and collected into this volume in 1953.&lt;/p&gt;
 			&lt;p&gt;This is the first book in &lt;a href="https://standardebooks.org/ebooks/john-w-campbell"&gt;John W. Campbell’s&lt;/a&gt; &lt;a href="https://standardebooks.org/collections/arcot-morey-and-wade"&gt;Arcot, Morey, and Wade&lt;/a&gt; trilogy. Most famous for editing &lt;i&gt;Astounding Science Fiction and Fact&lt;/i&gt; magazine and introducing Isaac Asimov, Robert Heinlein, and many other great science fiction authors to the world, Campbell’s other notable works include the novella “Who Goes There?”, which was adapted to film as &lt;i&gt;The Thing&lt;/i&gt; by John Carpenter in 1982.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/20707</dc:source>
 		<dc:source>https://archive.org/details/blackstarpasses0000john</dc:source>
