@@ -40,7 +40,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Arcot, Morey, and Wade</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:abstract>Three scientists from Earth invent space travel and meet extraterrestrial life, but then must defend the solar system from a new threat.</dc:abstract>
+		<meta property="schema:abstract">Three scientists from Earth invent space travel and meet extraterrestrial life, but then must defend the solar system from a new threat.</meta>
 		<dc:description>
 			&lt;p&gt;In the year 2126, scientists Arcot and Morey chase a sky pirate—and invent the technology to travel through space. In the second story, the heroes travel to Venus and make first contact with an alien species. Finally, they must defend the solar system from invaders whose own star has long since gone dark.&lt;/p&gt;
 			&lt;p&gt;Originally published separately as “Piracy Preferred” in &lt;i&gt;Amazing Stories&lt;/i&gt; June 1930 edition, “Solarite” in &lt;i&gt;Amazing Stories&lt;/i&gt; November 1930, and “The Black Star Passes” in &lt;i&gt;Amazing Stories Quarterly&lt;/i&gt; Fall 1930, these three novellas were edited and collected into this volume in 1953.&lt;/p&gt;
